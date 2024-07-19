@@ -1,7 +1,7 @@
 ![MasterHead](https://media.discordapp.net/attachments/1201596686615728188/1262472218349404212/gitbanner.jpg?ex=6696b860&is=669566e0&hm=20d4f8ae8c347bb3ef052a04a7ce41700838b1ea439a80131137236d48731999&=&format=webp&width=960&height=288)
 <h1 align="center">Hi 👋, I'm Aleksan</h1>
 <h3 align="center">hate code, love creating</h3>
-<img align="right" alt="Banner" width="400" src="https://i.pinimg.com/originals/b8/b1/94/b8b19493ebe9a187dbcac61ecbc1acad.gif">
+<!-- <img align="right" alt="Banner" width="400" src="https://i.pinimg.com/originals/b8/b1/94/b8b19493ebe9a187dbcac61ecbc1acad.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakealek&label=Profile%20views&color=0e75b6&style=flat" alt="fakealek" /> </p>
 
