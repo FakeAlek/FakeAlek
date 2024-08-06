@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mika - StartUp Software**
 
-- 🌱 I’m currently learning **Js, react and lua**
+- 🌱 I’m currently learning **Js, React and Lua**
 
 - ⚡ Fun fact **Monkey 🐒**
 
