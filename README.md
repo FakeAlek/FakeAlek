@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakealek&label=Profile%20views&color=0e75b6&style=flat" alt="fakealek" /> </p>
 
-- 🔭 I’m currently working on **Mika - StartUp Software**
+- 🔭 I’m currently working on **helpful tools**
 
-- 🌱 I’m currently learning **Js, React and Lua**
+- 🌱 I’m currently learning **Js and Python**
 
-- ⚡ Fun fact **Monkey 🐒**
+<!---- ⚡ Fun fact **Monkey 🐒**--->
 
 <p align="left">
 </p>
