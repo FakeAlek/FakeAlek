@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **helpful tools**
 
-- 🌱 I’m currently learning **Js and Python**
+- 🌱 I’m currently learning **Js**
 
 <!---- ⚡ Fun fact **Monkey 🐒**--->
 
