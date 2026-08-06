@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/FakeAlek/FakeAlek/blob/main/gitbanner.jpg)
+![MasterHead](https://github.com/FakeAlek/FakeAlek/blob/main/gitbanner2.jpg)
 <h1 align="center">Hi 👋, I'm Aleksan</h1>
 <h3 align="center">hate code, love creating</h3>
 <!-- <img align="right" alt="Banner" width="400" src="https://i.pinimg.com/originals/b8/b1/94/b8b19493ebe9a187dbcac61ecbc1acad.gif"> -->
